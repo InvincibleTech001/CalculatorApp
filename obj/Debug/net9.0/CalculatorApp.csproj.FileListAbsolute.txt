@@ -1,0 +1,14 @@
+C:\Users\Eric Kariuki\OneDrive\Documents\invincinbletech\CalculatorApp\bin\Debug\net9.0\CalculatorApp.exe
+C:\Users\Eric Kariuki\OneDrive\Documents\invincinbletech\CalculatorApp\bin\Debug\net9.0\CalculatorApp.deps.json
+C:\Users\Eric Kariuki\OneDrive\Documents\invincinbletech\CalculatorApp\bin\Debug\net9.0\CalculatorApp.runtimeconfig.json
+C:\Users\Eric Kariuki\OneDrive\Documents\invincinbletech\CalculatorApp\bin\Debug\net9.0\CalculatorApp.dll
+C:\Users\Eric Kariuki\OneDrive\Documents\invincinbletech\CalculatorApp\bin\Debug\net9.0\CalculatorApp.pdb
+C:\Users\Eric Kariuki\OneDrive\Documents\invincinbletech\CalculatorApp\obj\Debug\net9.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Kariuki\OneDrive\Documents\invincinbletech\CalculatorApp\obj\Debug\net9.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\Eric Kariuki\OneDrive\Documents\invincinbletech\CalculatorApp\obj\Debug\net9.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\Eric Kariuki\OneDrive\Documents\invincinbletech\CalculatorApp\obj\Debug\net9.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Eric Kariuki\OneDrive\Documents\invincinbletech\CalculatorApp\obj\Debug\net9.0\CalculatorApp.dll
+C:\Users\Eric Kariuki\OneDrive\Documents\invincinbletech\CalculatorApp\obj\Debug\net9.0\refint\CalculatorApp.dll
+C:\Users\Eric Kariuki\OneDrive\Documents\invincinbletech\CalculatorApp\obj\Debug\net9.0\CalculatorApp.pdb
+C:\Users\Eric Kariuki\OneDrive\Documents\invincinbletech\CalculatorApp\obj\Debug\net9.0\CalculatorApp.genruntimeconfig.cache
+C:\Users\Eric Kariuki\OneDrive\Documents\invincinbletech\CalculatorApp\obj\Debug\net9.0\ref\CalculatorApp.dll

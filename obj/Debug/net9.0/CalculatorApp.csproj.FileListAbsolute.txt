@@ -12,3 +12,4 @@ C:\Users\Eric Kariuki\OneDrive\Documents\invincinbletech\CalculatorApp\obj\Debug
 C:\Users\Eric Kariuki\OneDrive\Documents\invincinbletech\CalculatorApp\obj\Debug\net9.0\CalculatorApp.pdb
 C:\Users\Eric Kariuki\OneDrive\Documents\invincinbletech\CalculatorApp\obj\Debug\net9.0\CalculatorApp.genruntimeconfig.cache
 C:\Users\Eric Kariuki\OneDrive\Documents\invincinbletech\CalculatorApp\obj\Debug\net9.0\ref\CalculatorApp.dll
+C:\Users\Eric Kariuki\OneDrive\Documents\invincinbletech\CalculatorApp\obj\Debug\net9.0\CalculatorApp.sourcelink.json

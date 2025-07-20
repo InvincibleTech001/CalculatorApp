@@ -15,5 +15,5 @@ Supports addition, subtraction, multiplication, division, and chaining results.
 
 ## Author
 **Invincible Tech**  
-📧 writeguru7@gmail.com  
+📧 writerguru7@gmail.com  
 🔗 [GitHub: InvincibleTech001](https://github.com/InvincibleTech001)
